@@ -1,5 +1,5 @@
-<img align='right' src="https://lanyard-profile-readme.vercel.app/api/728520816714580010">
 <img align='right' src="https://music-profile.rayriffy.com/theme/light.svg?uid=000036.19f14d9dacbf4fb49607eeca06ef6089.0647">
+<img align='right' src="https://lanyard-profile-readme.vercel.app/api/728520816714580010">
 
 # 🧑‍💼 About Me:
 Madridista | Otaku | Discord Bot Developer
