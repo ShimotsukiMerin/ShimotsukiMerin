@@ -7,8 +7,7 @@ Madridista | Otaku | Discord Bot Developer
 # 💬 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/merin.2730) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/merin_2730) [![Apple Music](https://img.shields.io/badge/Apple_Music-fc3c44?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/aporla15)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/728520816714580010&hideDiscrim=true)
-<img align='left' src="https://lanyard-profile-readme.vercel.app/api/728520816714580010">
+<img align='left' src="https://lanyard-profile-readme.vercel.app/api/728520816714580010&hideDiscrim=true">
 
 
 # 💻 Tech Stack:
