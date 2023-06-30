@@ -5,7 +5,7 @@
 Madridista | Otaku | Discord Bot Developer
 
 # 💬 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/merenge.1902/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/merin_2730) [![Apple Music](https://img.shields.io/badge/Apple_Music-fc3c44?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/aporla15)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/merenge.1902/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/merin_1902) [![Apple Music](https://img.shields.io/badge/Apple_Music-fc3c44?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/aporla15)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/728520816714580010?hideDiscrim=true)](https://discord.com/users/728520816714580010)
 
