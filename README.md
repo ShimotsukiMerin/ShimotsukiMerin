@@ -1,5 +1,5 @@
 
-
+<img align='right' src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000036.19f14d9dacbf4fb49607eeca06ef6089.0647">
 
 # 🧑‍💼 About Me:
 Madridista | Otaku | Discord Bot Developer
